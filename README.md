@@ -16,4 +16,8 @@ In addition to Data Science, I was closely involved with the design and developm
 
 Please find my Resume as well as a summary of my thesis in this repository. I've done several projects in college, and have always approached Machine Learning & Deep Learning from a mathematical perspective. An [example](https://www.icloud.com/keynote/0SfR3sW2gOXtq3ngIWFSXRPwQ#comprehension) of my work in college when it comes to explaining topics in ML.
 
+> "What I cannot create, I do not understand" - Richard Feynman
+
+Apart from the projects listed in my Resume, almost every topic I've studied in the field of AI has a practical implementation as well.
+
 Thank you for your interest.
